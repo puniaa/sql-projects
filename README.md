@@ -54,9 +54,3 @@ More projects may include:
 - Music streaming insights
 
 ---
-
-## Feedback?
-
-Have a cool idea or feedback? Open an issue or fork the repo — contributions are welcome!
-
----
